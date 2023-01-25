@@ -1,4 +1,4 @@
-[中文](https://github.com/arclogicR/snake “贪吃蛇”)
+[中文](https://github.com/arclogicR/snake "贪吃蛇")
 # snake
 
 This is a brief sanke game developed by using python，and you can using direction keys to move the snake.
@@ -15,7 +15,7 @@ needs to put a font file in current directory, default is arial.ttf
 
 ![snake](snake.png)
 
-##贪吃蛇
+## 贪吃蛇
 
 使用python开发的一个简单的贪吃蛇游戏，使用光标键控制移动
 
