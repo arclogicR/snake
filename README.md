@@ -1,4 +1,4 @@
-[中文](https://github.com/arclogicR/snake "## 贪吃蛇")
+
 # snake
 
 This is a brief sanke game developed by using python，and you can using direction keys to move the snake.
